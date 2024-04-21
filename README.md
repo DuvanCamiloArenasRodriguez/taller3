@@ -60,7 +60,7 @@ Como resultado de la normalización de cliente, pedido, oficina y producto, como
 
 ### DER de la base de datos:
 
-
+![](https://github.com/DuvanCamiloArenasRodriguez/taller3/blob/main/images/BaseDatosTaller3.png?raw=true)
 
 
 
